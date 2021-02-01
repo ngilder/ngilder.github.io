@@ -60,9 +60,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I'm just a simple Dev trying to make my way in the universe."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://ngilder.github.io"
